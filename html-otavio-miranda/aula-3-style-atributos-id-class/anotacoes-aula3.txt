@@ -1,0 +1,8 @@
+- ID HTML é único para cada elemento.
+- Nem todo elemento possui ID o Classe.
+- Class identifica um o mais elementos.
+- Um elemento pode possuir uma ou mais classes.
+- O ID é recuperado no CSS utilizando # (cerquilha).
+- A classe é recuperada no CSS utilizando . (ponto).
+- Sempre que possível, opte por definir os elementos com classes.
+- Estilos em IDs são muito especificos e dificeis de sobreescrever.
