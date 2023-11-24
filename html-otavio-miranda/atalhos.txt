@@ -2,3 +2,4 @@ alt+shift+f - formata código
 ctrl+w - fecha a aba atual
 ctrl+k ctrl+w - fecha todas as abas abertas
 alt+shift+a - comenta bloco
+alt + z - quebra a linha de um texto grande

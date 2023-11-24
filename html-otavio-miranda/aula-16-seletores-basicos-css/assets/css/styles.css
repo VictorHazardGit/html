@@ -1,0 +1,20 @@
+
+/*seletor all: busca todos os componentes disponíveis*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*seletor irmão adjacente */
+/*seleciona o elemento indicado seguinte*/
+
+.adjacente h1+p {
+    color: red;
+}
+
+/*seletor irmão general */
+/*seleciona todos elementos indicado seguinte*/
+
+.general h1~p {
+    color: red;
+}

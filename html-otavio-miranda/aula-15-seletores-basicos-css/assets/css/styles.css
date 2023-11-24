@@ -1,0 +1,38 @@
+
+/*seletor all: busca todos os componentes disponíveis*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*seletor de tag: busca todas as tags especificadas */
+p{
+    color: red;
+}
+
+/*seletor de tag com hierarquia*/
+body div section h1{
+    color: greenyellow;
+}
+
+/*seletor via classe*/
+.heading{
+    color: gray;
+}
+
+/*seletor de tag filha de classe*/
+.main-container p{
+    color: orange;
+}
+
+
+/*seletor de tag filha de classe mais especifico*/
+.main-container h2.heading{
+    color: rgb(235, 11, 104);
+}
+
+
+/*seletor de elementos com mais de uma classe*/
+.pai.filha{
+    background: red;
+}
